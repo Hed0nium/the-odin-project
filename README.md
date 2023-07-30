@@ -76,7 +76,7 @@
   - [X] Paragraphs
   - [X] Text formatings
   - [ ] Anchors and hyperlinks
-  - [ ] Lists
+  - [X] Lists
   - [ ] Tables
   - [ ] Classes, IDs
   - [ ] Linking resourses
