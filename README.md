@@ -79,16 +79,16 @@
   - [X] Lists
   - [ ] Tables
   - [ ] Classes, IDs
-  - [ ] Linking resourses
+  - [X] Linking resourses
   - [ ] Using CSS, Js in HTML
   - [X] Images
   - [ ] Forms and input elements
   - [ ] Div element, sectioning elements, media elements, iframes
 
-- [ ] CSS foundation
+- [X] CSS foundation
 
-  - [ ] Relation CSS with HTML
-  - [ ] Selectors
+  - [X] Relation CSS with HTML
+  - [X] Selectors
   - [ ] Backgrounds
   - [ ] Centerings
   - [ ] Box model
