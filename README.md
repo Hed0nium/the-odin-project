@@ -2,33 +2,11 @@
 
 ### I Forked This
 
-**David Roark made a very useful The Odin Project completion template repository so I decided to fork it and fill it with my code.
+**David Roark made a very useful The Odin Project completion repository so I decided to fork it and fill it with my own progress notes and code.**
 
 ### About The Odin Project
 
 > The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
-
-### Me and The Odin Project
-
-> Thank [Theodinproject 🔗](https://theodinproject.com) so much :heart: I have no experience at coding and don't know where should I start to become a web developer. But The Odin Project saved me. If you are a beginner and want to have a learing path, let's visit theodinproject.com now. Now, I am learning Ruby on Rails and this is [my learning path in The Odin Project🔗](#theodinproject-learning-path)
-
-> Feel free to fork my repo, or copy my path in README.md if you need help :blush: :tada: :tada: :tada:
-
-<details>
-<summary>All my notes written in Vietnamese (vi). I so happy if you can help me translate to other languages. Many thanks</summary>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/intro-note.md">Introduction note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/git-note.md">Git note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/html-note.md">HTML note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/css-note.md">CSS note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/js-note.md">Javascript note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/ruby-note.md">Ruby-lang note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/rails-note.md">Ruby on Rails note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/cs-note.md">Computer Science note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/sql-note.md">SQL note </a><br>
-<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/testing-note.md">Testing note </a><br>
-</details>
-
-
 
 # My folders structure
 
