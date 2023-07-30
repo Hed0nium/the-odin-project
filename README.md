@@ -59,18 +59,18 @@
 
 ### Introduction
 
-- [ ] Introduction to Web development
-- [ ] How does the web work?
-- [ ] Installing and setting tools
+- [X] Introduction to Web development
+- [X] How does the web work?
+- [X] Installing and setting tools
 
 ### 1\. Git
 
-- [ ] Git basics
-- [ ] GitHub
+- [X] Git basics
+- [X] GitHub
 
 ### 2\. Font-end basics
 
-- [ ] HTML foundation
+- [X] HTML foundation
 
   - [ ] Headings
   - [ ] Paragraphs
