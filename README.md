@@ -2,7 +2,7 @@
 
 ### I Forked This
 
-**David Roark made a very useful The Odin Project completion repository so I decided to fork it and fill it with my own progress notes and code.**
+David Roark made a very useful The Odin Project completion repository so I decided to fork it and fill it with my own progress notes and code.
 
 ### About The Odin Project
 
