@@ -75,13 +75,13 @@
   - [X] Headings
   - [X] Paragraphs
   - [X] Text formatings
-  - [ ] Anchors and hyperlinks
+  - [X] Anchors and hyperlinks
   - [X] Lists
   - [ ] Tables
   - [ ] Classes, IDs
   - [ ] Linking resourses
   - [ ] Using CSS, Js in HTML
-  - [ ] Images
+  - [X] Images
   - [ ] Forms and input elements
   - [ ] Div element, sectioning elements, media elements, iframes
 
