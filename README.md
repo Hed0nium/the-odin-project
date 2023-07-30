@@ -72,9 +72,9 @@
 
 - [X] HTML foundation
 
-  - [ ] Headings
-  - [ ] Paragraphs
-  - [ ] Text formatings
+  - [X] Headings
+  - [X] Paragraphs
+  - [X] Text formatings
   - [ ] Anchors and hyperlinks
   - [ ] Lists
   - [ ] Tables
