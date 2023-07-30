@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+.column1 {
+    float: left;
+    margin-left: 10px;
+}
+
+.column2 {
+    float: right;
+    margin-right: 10px;
+}
+
+.box2 {
+    margin: 0 auto;
+    width: 50vh;
+}
