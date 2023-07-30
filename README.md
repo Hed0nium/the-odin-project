@@ -1,5 +1,9 @@
 # The Odin Project
 
+### I Forked This
+
+**David Roark made a very useful The Odin Project completion template repository so I decided to fork it and fill it with my code.
+
 ### About The Odin Project
 
 > The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
@@ -258,51 +262,51 @@
 
 ### Introduction
 
-- [x] Introduction to Web development
-- [x] How does the web work?
-- [x] Installing and setting tools
+- [ ] Introduction to Web development
+- [ ] How does the web work?
+- [ ] Installing and setting tools
 
 ### 1\. Git
 
-- [x] Git basics
-- [x] GitHub
+- [ ] Git basics
+- [ ] GitHub
 
 ### 2\. Font-end basics
 
-- [x] HTML foundation
+- [ ] HTML foundation
 
-  - [x] Headings
-  - [x] Paragraphs
-  - [x] Text formatings
-  - [x] Anchors and hyperlinks
-  - [x] Lists
-  - [x] Tables
-  - [x] Classes, IDs
-  - [x] Linking resourses
-  - [x] Using CSS, Js in HTML
-  - [x] Images
-  - [x] Forms and input elements
-  - [x] Div element, sectioning elements, media elements, iframes
+  - [ ] Headings
+  - [ ] Paragraphs
+  - [ ] Text formatings
+  - [ ] Anchors and hyperlinks
+  - [ ] Lists
+  - [ ] Tables
+  - [ ] Classes, IDs
+  - [ ] Linking resourses
+  - [ ] Using CSS, Js in HTML
+  - [ ] Images
+  - [ ] Forms and input elements
+  - [ ] Div element, sectioning elements, media elements, iframes
 
-- [x] CSS foundation
+- [ ] CSS foundation
 
-  - [x] Relation CSS with HTML
-  - [x] Selectors
-  - [x] Backgrounds
-  - [x] Centerings
-  - [x] Box model
-  - [x] Margins, padding, border
-  - [x] Overflow
-  - [x] Media querries
-  - [x] Positioning
-  - [x] Box-shadow
-  - [x] Floats
-  - [x] Flexbox
-  - [x] Grid
-  - [x] Typography
-  - [x] Colors, opacity
-  - [x] Length units
-  - [x] Tables
+  - [ ] Relation CSS with HTML
+  - [ ] Selectors
+  - [ ] Backgrounds
+  - [ ] Centerings
+  - [ ] Box model
+  - [ ] Margins, padding, border
+  - [ ] Overflow
+  - [ ] Media querries
+  - [ ] Positioning
+  - [ ] Box-shadow
+  - [ ] Floats
+  - [ ] Flexbox
+  - [ ] Grid
+  - [ ] Typography
+  - [ ] Colors, opacity
+  - [ ] Length units
+  - [ ] Tables
   - [ ] Transitions, Animations, 2D-3D transforms
   - [ ] Functions
 
@@ -314,14 +318,14 @@
 
 - [ ] **Projects**
 
-  - [x] Google homepage [preview](https://david-roark.github.io/the-odin-project/web_dev/google_homepage/index.html) | [github](./web_dev/Etch-a-Sketch)
-  - [x] Rock paper scissors [preview](https://david-roark.github.io/the-odin-project/web_dev/rock_paper_scissors/mini_game_with_ui.html) | [github](./web_dev/rock_paper_scissors)
-  - [x] Etch a Sketch [preview](https://david-roark.github.io/the-odin-project/web_dev/Etch-a-Sketch/index.html) | [github](./web_dev/rock_paper_scissors)
+  - [ ] Google homepage [preview](https://david-roark.github.io/the-odin-project/web_dev/google_homepage/index.html) | [github](./web_dev/Etch-a-Sketch)
+  - [ ] Rock paper scissors [preview](https://david-roark.github.io/the-odin-project/web_dev/rock_paper_scissors/mini_game_with_ui.html) | [github](./web_dev/rock_paper_scissors)
+  - [ ] Etch a Sketch [preview](https://david-roark.github.io/the-odin-project/web_dev/Etch-a-Sketch/index.html) | [github](./web_dev/rock_paper_scissors)
   - [ ] Calculator [preview](https://david-roark.github.io/the-odin-project/) | [github](#)
 
 ### 3\. About back-end
 
-- [x] Introduction about back-end and some frameworks
+- [ ] Introduction about back-end and some frameworks
 
 ## Full-stack Ruby on Rails
 
@@ -329,134 +333,134 @@
 
 #### 1\. Basic Ruby
 
-- [x] Everything is object
-- [x] Data types: Integer, Float, Array, String, Hash,...
-- [x] Variables, contants
-- [x] Input, output
-- [x] Conditional logic: `if..end`, `unless..end`, `if..elsif..end`, `case..when..end`
-- [x] Loops: `while..end`, `until..end`, `loop..end`, `times`, `for..in`
-- [x] Arrays, array methods: `#each`, `#select`, `#map`, `#reduce/#inject`, ...
-- [x] Hashes, hash methods: `#each`, `#keys`, `#values`, ...
-- [x] Methods
-- [x] Enumerable
-- [x] Nested collections
-- [x] Debugs: `p`, `puts`, _pry gem_
+- [ ] Everything is object
+- [ ] Data types: Integer, Float, Array, String, Hash,...
+- [ ] Variables, contants
+- [ ] Input, output
+- [ ] Conditional logic: `if..end`, `unless..end`, `if..elsif..end`, `case..when..end`
+- [ ] Loops: `while..end`, `until..end`, `loop..end`, `times`, `for..in`
+- [ ] Arrays, array methods: `#each`, `#select`, `#map`, `#reduce/#inject`, ...
+- [ ] Hashes, hash methods: `#each`, `#keys`, `#values`, ...
+- [ ] Methods
+- [ ] Enumerable
+- [ ] Nested collections
+- [ ] Debugs: `p`, `puts`, _pry gem_
 
 
 #### 2\. Object Oriented Programming (OOP)
 
-- [x] Class
-- [x] Instance
-- [x] Methods
-- [x] Inheritance
-- [x] Modules
-- [x] Setters, getters, `super` keyword, ...
+- [ ] Class
+- [ ] Instance
+- [ ] Methods
+- [ ] Inheritance
+- [ ] Modules
+- [ ] Setters, getters, `super` keyword, ...
 
 #### 3\. Files and Serialization
 
-- [x] File I/O
-- [x] JSON, YAML
+- [ ] File I/O
+- [ ] JSON, YAML
 
 #### 4\. Advanced Ruby
 
-- [x] Block, proc, lambda
-- [x] `yield` keyword
-- [x] Pattern matching - Ruby 3 (option)
+- [ ] Block, proc, lambda
+- [ ] `yield` keyword
+- [ ] Pattern matching - Ruby 3 (option)
 
 #### 5\. Computer Science (a bit)
 
-- [x] Recursive
-- [x] Common Data Structures and Algorithms
+- [ ] Recursive
+- [ ] Common Data Structures and Algorithms
 
-  - [x] Linked list
-  - [x] Binary Search Tree (BST)
-  - [x] Merge sort, Bubble sort
+  - [ ] Linked list
+  - [ ] Binary Search Tree (BST)
+  - [ ] Merge sort, Bubble sort
 
 #### 6\. Testing
 
-- [x] Test driven development (TDD)
-- [x] RSpec
+- [ ] Test driven development (TDD)
+- [ ] RSpec
 
 #### 7. Mini-projects
 
-- [x] Caesar Cipher [Github](./ruby/methods/lib/caesar_cipher.rb)
-- [x] Sub Strings [Github](./ruby/methods/lib/sub_strings.rb)
-- [x] Stock Picker [Github](./ruby/methods/lib/stock_picker.rb)
-- [x] Bubble Sort [Github](./ruby/methods/lib/bubble_sort.rb)
-- [x] Merge Sort [Github](./ruby/methods/lib/merge_sort.rb)
-- [x] Tic Tac Toe [Github](./ruby/game_tic_tac_toe)
-- [x] Master Mind [Github](./ruby/game_mastermind)
-- [x] Event Manager [Github](./ruby/event_manager/)
-- [x] File IO and Serialization (game Hangman) [Github](./ruby/game_hangman)
-- [x] Custom Enumerables [Github](./ruby/custom-enum)
-- [x] Recursion [Github](./ruby/methods/lib/recursion.rb)
-- [x] Linked Lists [Github](./ruby/linked_list/linked_list.rb)
-- [x] Binary Search Trees [Github](./ruby/data_structures-algorithms/BST/binar_search_trees.rb)
-- [x] Knights Travails [Github](./ruby/data_structures-algorithms/knights_travails/knight.rb)
-- [x] **Ruby final project (Chess)** [Github](./ruby/final-project) | [Live preview](https://replit.com/@DavidRoark/the-odin-project)
+- [ ] Caesar Cipher [Github](./ruby/methods/lib/caesar_cipher.rb)
+- [ ] Sub Strings [Github](./ruby/methods/lib/sub_strings.rb)
+- [ ] Stock Picker [Github](./ruby/methods/lib/stock_picker.rb)
+- [ ] Bubble Sort [Github](./ruby/methods/lib/bubble_sort.rb)
+- [ ] Merge Sort [Github](./ruby/methods/lib/merge_sort.rb)
+- [ ] Tic Tac Toe [Github](./ruby/game_tic_tac_toe)
+- [ ] Master Mind [Github](./ruby/game_mastermind)
+- [ ] Event Manager [Github](./ruby/event_manager/)
+- [ ] File IO and Serialization (game Hangman) [Github](./ruby/game_hangman)
+- [ ] Custom Enumerables [Github](./ruby/custom-enum)
+- [ ] Recursion [Github](./ruby/methods/lib/recursion.rb)
+- [ ] Linked Lists [Github](./ruby/linked_list/linked_list.rb)
+- [ ] Binary Search Trees [Github](./ruby/data_structures-algorithms/BST/binar_search_trees.rb)
+- [ ] Knights Travails [Github](./ruby/data_structures-algorithms/knights_travails/knight.rb)
+- [ ] **Ruby final project (Chess)** [Github](./ruby/final-project) | [Live preview](https://replit.com/@DavidRoark/the-odin-project)
 
 ### II. Database
 
-- [x] Database
-- [x] Relative database, SQL
+- [ ] Database
+- [ ] Relative database, SQL
 
 ### III. Ruby on Rails
 
 #### 1\. Rails basics
 
-- [x] A Railsy Web Refresher
+- [ ] A Railsy Web Refresher
 
-  - [x] HTTP, REST, urls
-  - [x] MVC
-  - [x] APIs
-  - [x] Cookies, sessions, authentication, authorization
+  - [ ] HTTP, REST, urls
+  - [ ] MVC
+  - [ ] APIs
+  - [ ] Cookies, sessions, authentication, authorization
 
 - [ ] Routing
 
-  - [x] Root
-  - [x] RESTful routes
-  - [x] Route helper
+  - [ ] Root
+  - [ ] RESTful routes
+  - [ ] Route helper
   - [ ] Non-RESTful routes
 
-- [x] Controllers
+- [ ] Controllers
 
-  - [x] Naming
-  - [x] Renders, redirects
-  - [x] Params, strong params
-  - [x] Flash
+  - [ ] Naming
+  - [ ] Renders, redirects
+  - [ ] Params, strong params
+  - [ ] Flash
 
-- [x] Views
+- [ ] Views
 
-  - [x] Layout
-  - [x] Preprocessors (erb, scss, coffee, ...)
-  - [x] Helper methods (`link_to`, `image_tag`, ...)
-  - [x] Render
+  - [ ] Layout
+  - [ ] Preprocessors (erb, scss, coffee, ...)
+  - [ ] Helper methods (`link_to`, `image_tag`, ...)
+  - [ ] Render
 
 - [ ] The Asset Pipeline
 
 - [ ] Webpacker
-- [x] Deployment (with Heroku)
+- [ ] Deployment (with Heroku)
 
 #### 2\. Active record basics
 
-- [x] ORM (Object-Relational-Mapping)
-- [x] Rails models
-- [x] Migration, rollback
-- [x] Validations
-- [x] Associations
+- [ ] ORM (Object-Relational-Mapping)
+- [ ] Rails models
+- [ ] Migration, rollback
+- [ ] Validations
+- [ ] Associations
 
 #### 3\. Forms and authentication
 
-- [x] CSRF token
-- [x] Helper: `form_for`, `form_with`, `form_tag`, `*_tag`, ...
-- [x] Sessions cookies
+- [ ] CSRF token
+- [ ] Helper: `form_for`, `form_with`, `form_tag`, `*_tag`, ...
+- [ ] Sessions cookies
 
 #### 4\. Advanced form and active record
 
 - [ ] Active record query
 
-  - [x] ActiveRecord::Relation: `#where`, `#all`, ...
-  - [x] ActiveRecord::FinderMethods: `#find`, `#find_by`, `#last`, `#first`, `#take`, ...
+  - [ ] ActiveRecord::Relation: `#where`, `#all`, ...
+  - [ ] ActiveRecord::FinderMethods: `#find`, `#find_by`, `#last`, `#first`, `#take`, ...
   - [ ] ActiveRecord::QueryMethods: `#select`, `#from`, `#group`, `#having`, `#order`, `#includes`, ...
   - [ ] Highlight: chaining queries(`#order`, ...), checking (`#any?`, `#exist?`, `#many?`,...), mathematical (`#count`, `#max`)
   - [ ] Problem **N + 1 query** => `#includes`, `#pluck`
@@ -465,7 +469,7 @@
 
 - [ ] Active record associations
 
-  - [x] `has_one`, `has_many`, `belongs_to`
+  - [ ] `has_one`, `has_many`, `belongs_to`
   - [ ] `foreign_key`, `class_name`, `through`, `source`
   - [ ] polymorphic
   - [ ] dependent
@@ -477,19 +481,19 @@
 
 - [ ] Advanced form
 
-  - [x] Helper: `select_tag`, `options_for_select`, ...
+  - [ ] Helper: `select_tag`, `options_for_select`, ...
   - [ ] Nested forms, delete nested form objects
   - [ ] _simple_form gem_
 
 #### 5\. APIs
 
-- [x] Basics create API app with Rails
-- [x] Rendering to XML, JSON
+- [ ] Basics create API app with Rails
+- [ ] Rendering to XML, JSON
 
 #### 6\. Mailer and advanced topics
 
 - [ ] Mailer
-- [x] Routing: `resource`, `resources`, nested routes, `member`, `collection`, `redirect`
+- [ ] Routing: `resource`, `resources`, nested routes, `member`, `collection`, `redirect`
 - [ ] Nested layout: `content_for`, `yield`
 - [ ] Design pattern: SOLID
 - [ ] I18n: Internationalization
@@ -503,45 +507,45 @@
 
 #### 1\. HTML page structure
 
-- [x] Elements tags, elements attributes
-- [x] Ids, classes
-- [x] Links, media, ...
+- [ ] Elements tags, elements attributes
+- [ ] Ids, classes
+- [ ] Links, media, ...
 
 #### 2\. Display and input data
 
-- [x] Tables
-- [x] Lists
-- [x] Forms
+- [ ] Tables
+- [ ] Lists
+- [ ] Forms
 
 #### 3\. CSS
 
-- [x] Units: px, %, rem, em, vh, vw, ...
-- [x] Fonts, colors
-- [x] Box model: block, inline, inline-block
-- [x] Margin, padding, width, height
-- [x] Float, position
-- [x] Flex
-- [x] Grid
-- [x] Background, gradients
+- [ ] Units: px, %, rem, em, vh, vw, ...
+- [ ] Fonts, colors
+- [ ] Box model: block, inline, inline-block
+- [ ] Margin, padding, width, height
+- [ ] Float, position
+- [ ] Flex
+- [ ] Grid
+- [ ] Background, gradients
 
 #### 4\. Design and UX
 
-- [x] Font: font-family (serif, san-serif, ...)
+- [ ] Font: font-family (serif, san-serif, ...)
 - [ ] Color
 - [ ] UX
 
 #### 5\. Responsive and Frameworks
 
-- [x] Media query
-- [x] Introduction some CSS frameworks: Bootstrap, Zurb Foundation, TailwindCSS
+- [ ] Media query
+- [ ] Introduction some CSS frameworks: Bootstrap, Zurb Foundation, TailwindCSS
 
 #### 6\. Advanced CSS
 
 - [ ] Animation
-- [x] Border radius, box shadow
-- [x] Transforms
+- [ ] Border radius, box shadow
+- [ ] Transforms
 - [ ] Pseudo-Elements
-- [x] Preprocessors: SCSS, SASS, LESS
+- [ ] Preprocessors: SCSS, SASS, LESS
 
 ### V. JavaScript
 
