@@ -91,8 +91,8 @@
   - [X] Selectors
   - [ ] Backgrounds
   - [ ] Centerings
-  - [ ] Box model
-  - [ ] Margins, padding, border
+  - [X] Box model
+  - [X] Margins, padding, border
   - [ ] Overflow
   - [ ] Media querries
   - [ ] Positioning
