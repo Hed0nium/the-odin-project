@@ -105,7 +105,7 @@
   - [ ] Length units
   - [ ] Tables
   - [ ] Transitions, Animations, 2D-3D transforms
-  - [X] Functions
+  - [ ] Functions
 
 - [ ] JavaScript foundation
 
