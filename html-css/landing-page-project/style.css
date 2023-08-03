@@ -1,0 +1,181 @@
+
+* {
+    border: 2px solid;
+}
+
+ul {
+    list-style: none;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+/*  */
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+/*  */
+
+ul {
+    display: flex;
+    gap: 10px;
+}
+
+.one {
+    background-color: #1F2937;
+}
+
+.awesome {
+    font-weight: 800;
+    color: #F9FAF8;
+    font-size: 30px;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+ul {
+    color: #E5E7EB;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.sign1 {
+    
+}
+
+.one-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.one-middle {
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.inner1 {
+    display: flex;
+    flex-wrap: row;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    width: 50vh;
+}
+
+.inner1 > h1:nth-child(1)
+{
+    width: 35vh;
+}
+
+.one-bottom {
+    height: 15vh;
+}
+
+.two-top {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    height: 15vh;
+}
+
+.two-middle {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box {
+    height: 125px;
+    width: 125px;
+}
+
+.two-bottom {
+    height: 15vh;
+}
+
+.three {
+    background-color: #E5E7EB;
+}
+
+.three-top {
+    height: 15vh;
+}
+
+.three-middle {
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    width: 60vw;
+}
+
+.three-bottom {
+    height: 15vh;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;   
+}
+
+.thor1 {
+    width: 50vh;
+}
+
+.four-top {
+    height: 15vh;
+}
+
+.four-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 15vh;
+    display: flex;
+}
+
+.leftest {
+    display: flex;
+    flex-direction: column;
+}
+
+.rectangle {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 5px solid;
+    border-left:
+}
+
+.action {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.four-bottom {
+    height: 15vh;
+}

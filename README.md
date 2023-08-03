@@ -98,7 +98,7 @@
   - [ ] Positioning
   - [ ] Box-shadow
   - [ ] Floats
-  - [ ] Flexbox
+  - [X] Flexbox
   - [ ] Grid
   - [ ] Typography
   - [ ] Colors, opacity
