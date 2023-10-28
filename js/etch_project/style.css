@@ -1,19 +1,5 @@
+/* body */
+/* container */
+/* grid */
+/* square */
 
-.square {
-    height: 25px;
-    width: 25px;
-    border-style: solid;
-}
-
-/*  */
-
-.grid {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-}
-
-.square {
-    display: flex;
-    align-content: center;
-}

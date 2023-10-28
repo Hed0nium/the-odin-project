@@ -142,19 +142,19 @@ scissorsButton.addEventListener('click', () => {
     roundIncrement();
 });
 
-if (roundNumber = 5 && (playerScore > computerScore)) {
+if (roundNumber === 5 && (playerScore > computerScore)) {
     console.log("The player won the match");
     let matchModify = document.querySelector(".match_winner_placeholder");
     matchModify.innerHTML = "The player won the match";
 }
 
-if (roundNumber = 5 && (playerScore < computerScore)) {
+if (roundNumber === 5 && (playerScore < computerScore)) {
     console.log("The computer won the match");
     let matchModify = document.querySelector(".match_winner_placeholder");
     matchModify.innerHTML = "The computer won the match";
 }
 
-if (roundNumber = 5 && (playerScore === computerScore)) {
+if (roundNumber === 5 && (playerScore === computerScore)) {
     console.log("The match was a draw");
     let matchModify = document.querySelector(".match_winner_placeholder");
     matchModify.innerHTML = "The match was a draw";
